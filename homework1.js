@@ -1,18 +1,18 @@
 //Homework-1
 
-// const random = require("random");
+const random = require("random");
 
-// const events = require('events');
+const events = require('events');
 
-// const fs = require('fs');
+const fs = require('fs');
 
-// const os = require('os');
+const os = require('os');
 
-// const argv = require('minimist')( process.argv.slice(2) );
+const argv = require('minimist')( process.argv.slice(2) );
 
-import {createServer} from 'http';
-import fs from 'fs';
-import path from 'path';
+// import {createServer} from 'http';
+// import fs from 'fs';
+// import path from 'path';
 
 // const char = require("./Modules/charOneSecondOutput");
 // let x = require('./homework2');
@@ -38,9 +38,11 @@ import path from 'path';
 
 
 
-// char('tigran')
+// char('tigran');
 
 
+
+//Test Ninja
 
 // fs.readFile('./test.txt', (err, data) => {
 //     if(err){
@@ -217,7 +219,9 @@ logger.emit('getUsers', users)
 logger.emit('getMessages', msgs);
 
 
-// console.log( argv );
+console.log( argv );
+
+
 
 //Test Meschian
 

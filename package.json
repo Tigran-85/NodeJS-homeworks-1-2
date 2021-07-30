@@ -7,7 +7,6 @@
     "dev": "nodemon homework1.js"
   },
   "author": "Tigran Poghosyan",
-  "type": "module",
   "license": "ISC",
   "dependencies": {
     "minimist": "^1.2.5",
